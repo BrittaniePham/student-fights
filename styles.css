@@ -1,0 +1,43 @@
+h1 { text-align: center; }
+
+.left {
+  float: left;
+}
+
+.winner {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.green { color: green; }
+
+.center { 
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.avatar {
+  border-radius: 100%;
+  width: 150px;
+  height: 150px;
+}
+
+.fight-box {
+  width: 300px;
+  height: 300px;
+  background-color: #98FB98;
+  border: solid 1px black;
+  cursor: pointer;
+}
+
+#fight_zone {
+  margin-left: 14%;
+}
+
+#loading_zone {
+	border: solid 1px black;
+	min-height: 100px;
+	width: 300px;
+	cursor: pointer;
+}
